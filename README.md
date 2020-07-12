@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 #hi this is satya reddy
+a lot of lectures commited
 ##jhdj
 #kjhgfghjk
 #we have done so much of work together
